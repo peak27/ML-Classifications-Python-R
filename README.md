@@ -23,9 +23,4 @@ This repository consists of various classification techniques such as Logistic r
 ## Contributing
 &nbsp;&nbsp;&nbsp;You can implement these different models on the same dataset to determine the most accurate model.
 
-## Credits 
-&nbsp;&nbsp;&nbsp;This was an individual project.
-
-**License:** Licenced by me.
-
 
